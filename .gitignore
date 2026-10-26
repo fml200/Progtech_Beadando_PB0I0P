@@ -1,0 +1,15 @@
+# Maven
+target/
+
+# Naplók
+logs/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
