@@ -1,7 +1,6 @@
 # Rush Hour – parancssoros játék
 
 Asztali, parancssoros kétszemélyes **Rush Hour** (csúszóblokk) játék Java 21-ben, Maven projektként.
-A *Programozási technológiák* kurzus beadandója.
 
 ## A játék
 
