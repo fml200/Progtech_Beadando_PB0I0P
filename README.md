@@ -52,11 +52,6 @@ Pályafájl nélkül a munkakönyvtárban lévő `level.txt` töltődik be; ha a
 alapértelmezett pálya indul. A napló a `logs/rushhour.log` fájlba kerül.
 A JaCoCo riport: `target/site/jacoco/index.html`.
 
-Ékezetek a konzolban: a program a konzol saját karakterkódolását használja (Windowson a konzol kódlapját,
-pl. cp852), ezért PowerShellben és CMD-ben is jól jelennek meg az ékezetes betűk. Ha mégis hibás karaktert
-látsz (pl. `ő`/`ű` helyett `?`, mert a cp437 kódlap nem tartalmazza őket), a futtatás előtt add ki:
-`chcp 65001`, vagy használd a Windows Terminalt.
-
 ## Parancsok
 
 | Parancs                    | Hatás                                                                         |
